@@ -23,6 +23,6 @@
     "cors": "^2.8.5",
     "espn-fantasy-football-api": "^0.15.0",
     "multer": "^1.4.2",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   }
 }
